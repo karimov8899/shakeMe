@@ -12,6 +12,7 @@
 		5511C63221705359004A2E36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5511C63021705359004A2E36 /* Main.storyboard */; };
 		5511C6342170535B004A2E36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5511C6332170535B004A2E36 /* Assets.xcassets */; };
 		5511C6372170535B004A2E36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5511C6352170535B004A2E36 /* LaunchScreen.storyboard */; };
+		5511C63F217053AA004A2E36 /* edosz.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5511C63E217053AA004A2E36 /* edosz.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5511C6332170535B004A2E36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5511C6362170535B004A2E36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5511C6382170535B004A2E36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5511C63E217053AA004A2E36 /* edosz.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = edosz.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5511C63021705359004A2E36 /* Main.storyboard */,
 				5511C6332170535B004A2E36 /* Assets.xcassets */,
 				5511C6352170535B004A2E36 /* LaunchScreen.storyboard */,
+				5511C63E217053AA004A2E36 /* edosz.ttf */,
 				5511C6382170535B004A2E36 /* Info.plist */,
 			);
 			path = ShakeMe;
@@ -124,6 +127,7 @@
 			files = (
 				5511C6372170535B004A2E36 /* LaunchScreen.storyboard in Resources */,
 				5511C6342170535B004A2E36 /* Assets.xcassets in Resources */,
+				5511C63F217053AA004A2E36 /* edosz.ttf in Resources */,
 				5511C63221705359004A2E36 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
